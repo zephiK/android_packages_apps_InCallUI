@@ -18,10 +18,10 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Text for the onscreen "Blacklist" button -->
-    <string name="onscreenBlacklistText">Liste noire</string>
+    <string name="onscreenBlacklistText">Liste des appelants bloqués</string>
     <string name="onscreenMoreMenuText">Plus de menu</string>
 
     <!-- Blacklist confirmation dialog -->
-    <string name="blacklist_dialog_title">Ajouter à la liste noire</string>
+    <string name="blacklist_dialog_title">Ajouter à la liste des appelants bloqués</string>
     <string name="blacklist_dialog_message">Les futurs appels de <xliff:g id="number">%s</xliff:g> seront bloqués</string>
 </resources>
